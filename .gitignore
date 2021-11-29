@@ -157,3 +157,7 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+/.idea/vcs.xml
+/.idea/modules.xml
+/.idea/misc.xml
+/.idea/MachineLearningCpp.iml
