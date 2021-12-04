@@ -3,4 +3,4 @@ project(MachineLearningCpp)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(MachineLearningCpp main.cpp)
+add_executable(MachineLearningCpp main.cpp LinearRegression.cpp LinearRegression.h)
